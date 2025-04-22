@@ -27,3 +27,5 @@ Ini adalah proyek sederhana yang menampilkan profil pribadi dalam bentuk halaman
 ## Catatan
 Pastikan file `photo.jpeg` tersedia agar gambar profil dapat ditampilkan dengan benar.
 
+##Testing Clone Repository
+
